@@ -24,4 +24,4 @@ ___
 - [Nodo Arbol Curso](https://github.com/ChrisSirchgk/Proyecto-final-tercer-parcial/blob/main/Tercer-Parcial/NodoArbolCurso.java)
 - [Ordenamientos](https://github.com/ChrisSirchgk/Proyecto-final-tercer-parcial/blob/main/Tercer-Parcial/Ordenamientos.java)
 ---
-### [Capturas](https://github.com/ChrisSirchgk/Proyecto-final-tercer-parcial)
+### [Capturas](https://github.com/ChrisSirchgk/Proyecto-final-tercer-parcial/tree/main/Capturas)
