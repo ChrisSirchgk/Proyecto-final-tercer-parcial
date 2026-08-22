@@ -1,4 +1,4 @@
-# ***Proyecto-final-tercer-parcial***
+# ***Proyecto final tercer parcial***
 ---
 ## **CURSOS**
 ---
@@ -24,4 +24,8 @@ ___
 - [Nodo Arbol Curso](https://github.com/ChrisSirchgk/Proyecto-final-tercer-parcial/blob/main/Tercer-Parcial/NodoArbolCurso.java)
 - [Ordenamientos](https://github.com/ChrisSirchgk/Proyecto-final-tercer-parcial/blob/main/Tercer-Parcial/Ordenamientos.java)
 ---
+## Documetación
+---
 ### [Capturas](https://github.com/ChrisSirchgk/Proyecto-final-tercer-parcial/tree/main/Capturas)
+---
+### [Documento](https://github.com/ChrisSirchgk/Proyecto-final-tercer-parcial/blob/main/Proyecto%20tercer%20Parcial.pdf)
