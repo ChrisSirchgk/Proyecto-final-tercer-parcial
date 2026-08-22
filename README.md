@@ -26,5 +26,5 @@ ___
 ---
 ## Documetación
 ---
-### [Capturas](https://github.com/ChrisSirchgk/Proyecto-final-tercer-parcial/tree/main/Capturas)
-### [Documento](https://github.com/ChrisSirchgk/Proyecto-final-tercer-parcial/blob/main/Proyecto%20tercer%20Parcial.pdf)
+- ### [Capturas](https://github.com/ChrisSirchgk/Proyecto-final-tercer-parcial/tree/main/Capturas)
+- ### [Documento](https://github.com/ChrisSirchgk/Proyecto-final-tercer-parcial/blob/main/Proyecto%20tercer%20Parcial.pdf)
